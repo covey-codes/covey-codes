@@ -1,6 +1,6 @@
-👋 Hi, I'm Kelvin Godwin
+Hello, I'm Kelvin Godwin
 
-I'm a passionate Full Stack Web Developer dedicated to building user-friendly and scalable digital experiences.
+I'm a Full Stack Web Developer dedicated to building user-friendly and easily scalable digital experiences for users.
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 Currently, I'm focused on building impactful products using modern web technologies.
 
