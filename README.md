@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer dedicated to building user-friendly and easily sc
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 Currently, I'm focused on building impactful products using modern web technologies.
 
-🚀 Tech Stack
+Tech Stack
 
 Frontend
 <p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> </p>
@@ -16,16 +16,16 @@ Tools & Platforms
 
 Here are a few highlights:
 
-📚 EduPro AI – An AI-powered study assistant with flashcards, quiz generation from PDFs, tagging, and more. (React + Node + MongoDB)
-📄 InvoicePro – A startup-focused invoicing platform with PDF exports, spending analytics, and tax tools. (React + jsPDF + Tailwind)
-📝 Lettera – A web app that generates beautiful and professional letters with customizable templates. (React + Express)
-📝 Kraftaa – A web app that generates beautiful and professional letters with customizable templates. (React + Express)
-🚀 More projects on my GitHub repositories
-📫 Let's Connect
+EduPro AI – An AI-powered study assistant with flashcards, quiz generation from PDFs, tagging, and more. (React + Node + MongoDB)
+InvoicePro – A startup-focused invoicing platform with PDF exports, spending analytics, and tax tools. (React + jsPDF + Tailwind)
+Lettera – A web app that generates beautiful and professional letters with customizable templates. (React + Express)
+Kraftaa – A web app that generates beautiful and professional letters with customizable templates. (React + Express)
+More projects on my GitHub repositories
+Let's Connect
 
-🌐 Portfolio: yourportfolio.com
-📧 Email: kosagie01@gmail.com
-🐦 Twitter: @Whoisefosa
-💼 LinkedIn: Kelvin (Efosa) Godwin
-⭐️ Feel free to check out my work, leave a ⭐️, or connect with me!
+Portfolio: yourportfolio.com
+Email: kosagie01@gmail.com
+Twitter: @Whoisefosa
+LinkedIn: Kelvin (Efosa) Godwin
+Feel free to check out my work, or connect with me!
 
