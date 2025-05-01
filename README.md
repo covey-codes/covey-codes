@@ -39,6 +39,6 @@ More projects on my [GitHub repositories](#)!
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - Email: kosagie01@gmail.com
 - Twitter: [@Whoisefosa](https://twitter.com/Whoisefosa)
-- LinkedIn: [Kelvin (Efosa) Godwin](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Kelvin Godwin](https://linkedin.com/in/kelvin-godwin)
   
 Feel free to check out my work, or connect with me!
